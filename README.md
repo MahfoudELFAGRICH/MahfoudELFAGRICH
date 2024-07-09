@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahfoudELFAGRICH
 - 👀 I’m interested in Tomography, mathematical transform 
-- 🌱 I’m currently learning Vision computer 
+- 🌱 I’m currently learning computer Vision
 - 💞️ I’m looking to collaborate on All topics of ML and DL
 - 📫 How to reach me El fagrich or Elfagrich
 - 😄 Pronouns: Mahfoud
